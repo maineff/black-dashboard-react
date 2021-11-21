@@ -18,7 +18,10 @@
     "react-notification-alert": "0.0.13",
     "react-router-dom": "5.2.0",
     "react-scripts": "4.0.1",
-    "reactstrap": "8.7.1"
+    "reactstrap": "8.7.1",
+    "eslint-plugin-flowtype": "5.2.0",
+    "jquery": "3.5.1",
+    "typescript": "4.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -47,5 +50,16 @@
   "devDependencies": {
     "gulp": "4.0.2",
     "gulp-append-prepend": "1.0.8"
+  },
+  "description": "![version](https://img.shields.io/badge/version-1.2.0-blue.svg) ![license](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/black-dashboard-react.svg?maxAge=2592000)]() [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/black-dashboard-react.svg?maxAge=2592000)]()  [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)",
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maineff/black-dashboard-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maineff/black-dashboard-react/issues"
   }
 }
